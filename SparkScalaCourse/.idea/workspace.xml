@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6386a5be-d46e-4301-a9f4-2a012ab5907f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XoEFkd8Jy65sIWRSCXepIWip80" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/spark-3.0.0-preview2-bin-hadoop2.7/jars" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.TotalsByCustomer">
+    <configuration name="MaxPrecipitation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bethashome.spark.MaxPrecipitation" />
+      <module name="SparkScalaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bethashome.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxTemperatures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bethashome.spark.MaxTemperatures" />
+      <module name="SparkScalaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bethashome.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalsByCustomer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bethashome.spark.TotalsByCustomer" />
+      <module name="SparkScalaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bethashome.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bethashome.spark.WordCount" />
+      <module name="SparkScalaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bethashome.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountBetter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bethashome.spark.WordCountBetter" />
+      <module name="SparkScalaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bethashome.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TotalsByCustomer" />
+        <item itemvalue="Application.WordCountBetter" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.MaxPrecipitation" />
+        <item itemvalue="Application.MaxTemperatures" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkScalaCourse" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkscalacourse [file:/home/bethas/projects/SparkScala/SparkScalaCourse/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SparkScalaCourse-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3163407891482" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3044796056" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6386a5be-d46e-4301-a9f4-2a012ab5907f" name="Default Changelist" comment="" />
+      <created>1581703945739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581703945739</updated>
+      <workItem from="1581703946949" duration="1784000" />
+      <workItem from="1581832865907" duration="638000" />
+      <workItem from="1581893362489" duration="8977000" />
+      <workItem from="1582476122041" duration="59000" />
+      <workItem from="1582476193544" duration="1270000" />
+      <workItem from="1582508930284" duration="931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3976" y="372" width="598" height="649" key="#FriendsByFirstName" timestamp="1581895221253">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3976" y="372" width="598" height="649" key="#FriendsByFirstName/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581895221253" />
+    <state x="4013" y="457" width="524" height="478" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581900673928">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4013" y="457" width="524" height="478" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581900673928" />
+    <state x="3738" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581705085380">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3738" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581705085380" />
+    <state x="3963" y="438" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582476130320">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3963" y="438" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1582476130320" />
+    <state x="4254" y="440" width="637" height="506" key="FileChooserDialogImpl" timestamp="1581704810026">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4254" y="440" width="637" height="506" key="FileChooserDialogImpl/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581704810026" />
+    <state width="1677" height="442" key="GridCell.Tab.0.bottom" timestamp="1581901619719">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1677" height="442" key="GridCell.Tab.0.bottom/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581901619719" />
+    <state width="1677" height="442" key="GridCell.Tab.0.center" timestamp="1581901619719">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1677" height="442" key="GridCell.Tab.0.center/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581901619719" />
+    <state width="1677" height="442" key="GridCell.Tab.0.left" timestamp="1581901619719">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1677" height="442" key="GridCell.Tab.0.left/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581901619719" />
+    <state width="1677" height="442" key="GridCell.Tab.0.right" timestamp="1581901619719">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1677" height="442" key="GridCell.Tab.0.right/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581901619719" />
+    <state x="3763" y="276" width="1630" height="840" key="SettingsEditor" timestamp="1581704823538">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3763" y="276" width="1630" height="840" key="SettingsEditor/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581704823538" />
+    <state x="3689" y="426" width="1171" height="540" key="new project wizard" timestamp="1581807222319">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3689" y="426" width="1171" height="540" key="new project wizard/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581807222319" />
+  </component>
+</project>

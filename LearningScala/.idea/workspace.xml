@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3538946-67a0-47e1-8752-56b9568eadee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XrbaIdWa5KqZ6gN6c3nlwobeBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="LearningScala" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="LearningScala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="learningscala [file:/home/bethas/projects/SparkScala/LearningScala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="LearningScala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3163614444736" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3432064342" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3538946-67a0-47e1-8752-56b9568eadee" name="Default Changelist" comment="" />
+      <created>1581807222364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581807222364</updated>
+      <workItem from="1581807226754" duration="7487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3875" y="360" width="800" height="672" key="#Project_Structure" timestamp="1581807316359">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3875" y="360" width="800" height="672" key="#Project_Structure/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581807316359" />
+    <state x="4013" y="457" width="524" height="479" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581831070837">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4013" y="457" width="524" height="479" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581831070837" />
+    <state width="3398" height="395" key="GridCell.Tab.0.bottom" timestamp="1581832861285">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="395" key="GridCell.Tab.0.bottom/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581832861285" />
+    <state width="3398" height="395" key="GridCell.Tab.0.center" timestamp="1581832861284">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="395" key="GridCell.Tab.0.center/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581832861284" />
+    <state width="3398" height="395" key="GridCell.Tab.0.left" timestamp="1581832861284">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="395" key="GridCell.Tab.0.left/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581832861284" />
+    <state width="3398" height="395" key="GridCell.Tab.0.right" timestamp="1581832861284">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="395" key="GridCell.Tab.0.right/2560.0.3440.1440/0.0.2560.1400@2560.0.3440.1440" timestamp="1581832861284" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="LearningScala" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/SampleWorksheet.sc</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
